@@ -1,0 +1,10 @@
+sudo docker run -d -p 49811:27017 -name mongodb11  aadebuger/mongod
+sudo docker run -d -p 49812:27017 -name mongodb12  aadebuger/mongod
+sudo docker run -d -p 49813:27017 -name mongodb13  aadebuger/mongod
+sudo docker run -d -p 49814:27017 -name mongodb14  aadebuger/mongod
+sudo docker run -d -p 49815:27017 -name mongodb15  aadebuger/mongod
+sudo docker run -d -p 49816:27017 -name mongodb16  aadebuger/mongod
+sudo docker run -d -p 49817:27017 -name mongodb17  aadebuger/mongod
+sudo docker run -d -p 49818:27017 -name mongodb18  aadebuger/mongod
+sudo docker run -d -p 49819:27017 -name mongodb19  aadebuger/mongod
+sudo docker run -d -p 49820:27017 -name mongodb20  aadebuger/mongod
